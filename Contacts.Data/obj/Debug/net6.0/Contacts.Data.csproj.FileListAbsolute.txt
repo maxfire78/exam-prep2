@@ -1,0 +1,12 @@
+F:\exam-prep2\Contacts.Data\bin\Debug\net6.0\Contacts.Data.deps.json
+F:\exam-prep2\Contacts.Data\bin\Debug\net6.0\Contacts.Data.dll
+F:\exam-prep2\Contacts.Data\bin\Debug\net6.0\Contacts.Data.pdb
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.AssemblyReference.cache
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfoInputs.cache
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.AssemblyInfo.cs
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.csproj.CoreCompileInputs.cache
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.dll
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\refint\Contacts.Data.dll
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\Contacts.Data.pdb
+F:\exam-prep2\Contacts.Data\obj\Debug\net6.0\ref\Contacts.Data.dll
